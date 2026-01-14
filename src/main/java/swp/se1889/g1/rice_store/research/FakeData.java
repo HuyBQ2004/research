@@ -33,9 +33,9 @@ import java.time.format.DateTimeFormatter;
 
 public class FakeData {
     // === CONFIG ===
-    private static final String DB_URL = "jdbc:sqlserver://localhost:1433;databaseName=rice_store;encrypt=false";
+    private static final String DB_URL = "jdbc:sqlserver://localhost:1434;databaseName=rice_store;encrypt=false";
     private static final String DB_USER = "sa";
-    private static final String DB_PASSWORD = "123";
+    private static final String DB_PASSWORD = "StrongPassword!123";
 
     // sizes (adjust as needed)
     // sizes (Scaled up for Research Paper Benchmark)
