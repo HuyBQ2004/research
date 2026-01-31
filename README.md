@@ -41,6 +41,7 @@ docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=YourStrong!Passw0rd" \
     --cpus="8.0" --memory="8g" \
     -p 1434:1434 --name sql_server_benchmark \
     -d [mcr.microsoft.com/mssql/server:2022-latest](https://mcr.microsoft.com/mssql/server:2022-latest)
+# Schema available in /database
 
 # Experimental Artifacts: Scalability under Resource Constraints
 ## An Empirical Study of Java Virtual Threads
