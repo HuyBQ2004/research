@@ -46,7 +46,7 @@ docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=YourStrong!Passw0rd" \
 # Experimental Artifacts: Scalability under Resource Constraints
 ## An Empirical Study of Java Virtual Threads
 
-This repository contains the source code, benchmark scripts, and raw data used in the manuscript **"Scalability under Resource Constraints: An Empirical Study of Java Virtual Threads"**, submitted to *Performance Evaluation*.
+This repository contains the source code, benchmark scripts, and raw data used in the manuscript **"Scalability under Resource Constraints: An Empirical Study of Java Virtual Threads"**, submitted to *SN Computer Science*.
 
 **Authors:**
 * Bui Quang Huy (FPT University)
